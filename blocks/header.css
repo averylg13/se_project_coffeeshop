@@ -42,14 +42,14 @@
     }
 
     .header__image {
-    position: absolute;
+      position: absolute;
     margin-right: 5px;
     padding: 0;
-    top: 124px;
     width: 646px;
     height: 568px;
-    bottom: 0px;
-    right: 0px;
+    align-self: flex-end;
+    justify-self: center;
+    margin-top: 150px;
     }
 
     .header__footer {
